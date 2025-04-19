@@ -23,17 +23,34 @@ BackEndStage1/
 ├── src/
 │   ├── desafio/
 │   ├── pratica1/
+│      ├──pratica1
+│      ├──pratica2
+│      ├──pratica3
+│      ├──pratica4
+│      └──pratica5
 │   ├── pratica2/
-│   └── pratica3/
+│      ├──pratica2.1
+│      ├──pratica2.2
+│      ├──pratica2.3
+│      ├──pratica2.4
+│      ├──pratica2.5
+│      └──pratica2.6
+│   ├── pratica3/
+│      ├──pratica3.1
+│      ├──pratica3.2
+│      ├──pratica3.3
+│      ├──pratica3.4
+│      ├──pratica3.5
+│      └──pratica3.6
 ├── README.md
 ```
 
 Cada pasta representa uma fase prática do curso.
 
+- 🟥 `desafio` – Criação de classes e métodos com lógica aplicada
 - 🟩 `pratica1` – Variáveis, tipos primitivos, entrada de dados
 - 🟨 `pratica2` – Casting, operações matemáticas, formatação
 - 🟦 `pratica3` – Condicionais, laços de repetição, menus
-- 🟥 `desafio` – Criação de classes e métodos com lógica aplicada
 
 ---
 
