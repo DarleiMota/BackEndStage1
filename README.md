@@ -18,7 +18,10 @@ O foco é o aprendizado da linguagem **Java** por meio da prática com desafios 
 
 ## 🧩 Estrutura do Projeto
 
-```
+<table>
+<td>
+
+  ```
 BackEndStage1/
 ├── src/
 │   ├── desafio/
@@ -44,8 +47,10 @@ BackEndStage1/
 │      └──pratica3.6
 ├── README.md
 ```
-
-Cada pasta representa uma fase prática do curso.
+</td>
+<td>
+  
+## ✨ Cada pasta representa uma fase prática do curso.
 
 - 🟥 `desafio` – Criação de classes e métodos com lógica aplicada
 - 🟩 `pratica1` – Variáveis, tipos primitivos, entrada de dados
@@ -66,7 +71,8 @@ Cada pasta representa uma fase prática do curso.
 - 🧾 **Formatação de saída com `printf`**
 - 💡 **Práticas com cálculo de média, descontos, fatorial e mais!**
 
----
+</td>
+</table>
 
 ## 🧪 Exemplos
 
